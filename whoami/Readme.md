@@ -1,4 +1,4 @@
-## category 
+## Category 
 OSINT
 ## Difficulty
 Easy
